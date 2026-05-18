@@ -190,8 +190,8 @@ Make sure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/psychobeast071/hms.git
-cd hms
+git clone https://github.com/CoderAnimesh/ArogyaSwarm.git
+cd ArogyaSwarm
 ```
 
 #### 2. Install Backend Dependencies
@@ -221,7 +221,7 @@ npm run db:push
 #### 5. Install Frontend Dependencies
 
 ```bash
-cd ../frontend
+cd frontend
 npm install
 ```
 
